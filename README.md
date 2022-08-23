@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nyambat</h1>
-<img align="right" alt="ux/ui" widht="400"  src="https://www.viewydigital.com/wp-content/uploads/2019/01/designergif.gif">
+<img align="right" alt="ux/ui" widht="400x600"  src="https://www.viewydigital.com/wp-content/uploads/2019/01/designergif.gif">
 <h3 align="left">A passionate UX/UI DESIGNER</h3>
 
 - 🔭 I’m currently working on [erxes inc](https://erxes.io/)
